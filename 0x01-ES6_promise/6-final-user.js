@@ -3,11 +3,11 @@ import uploadPhoto from './5-photo-reject';
 
 async function handleProfileSignup(firstName, lastName, filename) {
   const promise1 = {
-    status: 'pending',
+    status: 'pending ',
   };
 
   const promise2 = {
-    status: 'pending',
+    status: 'pending ',
   };
 
   try {
